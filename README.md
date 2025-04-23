@@ -1,0 +1,1 @@
+Copy configuration of `User_Setup.h` from [Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-tft-touchscreen-display-2-8-ili9341-arduino/#config-file-windows-pc) for TFT Touchscreen ILI9341 ESP32 WROOM.
